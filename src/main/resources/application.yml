@@ -1,0 +1,7 @@
+com:
+  dudu:
+    demo:
+      name: "077"
+      want: "祝大家狗年快乐！"
+      yearhope: ${com.dudu.demo.name}在此${com.dudu.demo.want}
+      uuid: ${random.uuid}
